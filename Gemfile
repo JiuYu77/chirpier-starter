@@ -4,8 +4,7 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpier", "~> 1.0.1", ">= 1.0.6"
 
-#gem "html-proofer", "~> 5.0", group: :test
-gem "html-proofer", "~> 5.0.10", group: :test
+gem "html-proofer", "~> 5.0", group: :test
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
