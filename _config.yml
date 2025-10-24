@@ -151,7 +151,7 @@ paginate: 10
 
 # The base URL of your site
 # baseurl: "" # github_username.github.io 仓库 不用填写
-baseurl: ""  # 非 github_username.github.io 仓库，需要通过此项指定仓库路径，当前行以“chirpier-starter”仓库为例
+baseurl: "/chirpier-starter"  # 非 github_username.github.io 仓库，需要通过此项指定仓库路径，当前行以“chirpier-starter”仓库为例
 
 # ------------ The following options are not recommended to be modified ------------------
 
